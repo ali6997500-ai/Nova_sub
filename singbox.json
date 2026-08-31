@@ -119,12 +119,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -142,12 +142,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -165,12 +165,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -188,12 +188,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -211,12 +211,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -234,12 +234,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -257,12 +257,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -280,12 +280,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -303,12 +303,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -326,12 +326,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -349,12 +349,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -372,12 +372,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -395,12 +395,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -418,12 +418,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -441,12 +441,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -464,12 +464,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -487,12 +487,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -510,12 +510,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -533,12 +533,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -556,12 +556,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -579,12 +579,12 @@
         "path": "/proxyip=129.159.84.71",
         "type": "ws",
         "headers": {
-          "Host": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev"
+          "Host": "163a04.sandy-finch-90cf.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "bright-meadow-e4d1.sandy-finch-90cf.workers.dev",
+        "server_name": "163a04.sandy-finch-90cf.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
